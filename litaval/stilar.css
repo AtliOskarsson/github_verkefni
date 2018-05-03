@@ -2,7 +2,7 @@ body {
 	margin:0;
 }
 .sumar {
-	/*sumar stílar hér*/
+	/*sumar stílar d hér*/
 	background: linear-gradient(to top left,  yellow, red); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
